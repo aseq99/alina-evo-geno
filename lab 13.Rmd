@@ -1,0 +1,45 @@
+---
+title: "Lab 13"
+author: Alina Sequeira
+date: 12-3-20
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Cytoscape
+
+Basic Graph
+```{r}
+knitr::include_graphics("images/lab4.png")
+```
+
+Up-Regulated Genes
+```{r}
+knitr::include_graphics("images/lab.png")
+```
+
+Down-Regulated Genes
+```{r}
+knitr::include_graphics("images/lab 5.png")
+```
+
+Ovarian Cancer Graph
+```{r}
+knitr::include_graphics("images/lab2.png")
+```
+
+RCy3
+```{r}
+knitr::include_graphics("images/lab3.png")
+```
+
+
+
+
+

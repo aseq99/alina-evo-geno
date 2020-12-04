@@ -1,0 +1,36 @@
+---
+title: "Evolutionary Genomics & Bioinformatics"
+author: Alina Sequeira
+output: 
+ prettydoc::html_pretty:
+    theme: lumen
+    highlight: github
+bibliography: data/references.bib
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## LAB FILES
+* Lab 1: [Intro to R](Alina-Lab1.html)
+* Lab 2: [Github](Lab-2_Alina.html)
+* Lab 3A: [Starting with Data](Lab_3A.html)
+* Lab 3B: [Manipulating Data](Lab_3B.html)
+* Lab 4A: [ggplot 2 Examples/Challenges](Lab_4A.html)
+* Lab 4B: [Data Wrangling and Graphing COVID-19 Reporting Data](Lab_4B.html)
+* Lab 5A: [Data Wrangling and Graphing COVID-19 Reporting Data Part 2](Lab_5A.html)
+* Lab 6: [Data Maps and Interactive Graphs from COVID-19 Reporting Data](Lab_6.html)
+* Lab 9: [Programming in R: Regular Expressions](Lab_9.html)
+* Lab 9A: [Programming in R: Control Structures & Functions](Lab_9A.html)
+* Lab 10: [Population Genomics Based on High Throughout Sequencing](lab-10.html)
+* Lab 11: [Microbiome Analysis Using data2 and phyloseq](Lab_11.html)
+* Lab 12: [Network Analysis Using Cytoscape and RCy3](Lab-12.html)
+* Lab 13: [Sprucing Up Your Rmarkdown and Github Page](lab-13.html)
+
+*Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].*
+
+## REFERENCES
+
